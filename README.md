@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔅 I’m currently learning more about software development. <br>💻 I’m looking into Exploring New Technologies for Startup growth.<br>💻Ask me about any tech-related stuff.<br>📧 How to reach me: Email - chiedozie013@yahoo.com<br>👤 Pronouns: He/Him<br>⚡️ Fun facts: I love football. 
+🔅 I’m currently learning more about software development. <br>💻 I’m looking into Exploring New Technologies for Startup growth.<br>💻Ask me about any tech-related stuff.<br>📧 How to reach me: Email - chiedozie013@gmail.com<br>👤 Pronouns: He/Him<br>⚡️ Fun facts: I love football. 
 
 
 ## 🌐 Socials:

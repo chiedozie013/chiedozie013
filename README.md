@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://www.canva.com/design/DAFs2ji3fMg/1fOD3Ga0xEGPXSkDjSSr2g/edit?utm_content=DAFs2ji3fMg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Welcome To My World!">
+<img src="https://drive.google.com/file/d/1QNNXiudyP8yPmynsaD0cdvQoSidx57x_/view?usp=sharing" alt="Welcome To My World!">
 
 <p align="center"> 
   Visitor count<br>

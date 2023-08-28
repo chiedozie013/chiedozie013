@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://drive.google.com/file/d/1QNNXiudyP8yPmynsaD0cdvQoSidx57x_/view" alt="Welcome To My World!">
+<img src="https://photos.app.goo.gl/aiFysjv3o5BNwzZs5" alt="Welcome To My World!">
 
 <p align="center"> 
   Visitor count<br>

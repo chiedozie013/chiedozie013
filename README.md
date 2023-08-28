@@ -1,3 +1,12 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 # 💫 About Me:
 🔅 I’m currently learning more about software development. <br>💻 I’m looking into Exploring New Technologies for Startup growth.<br>💻Ask me about any tech-related stuff.<br>📧 How to reach me: Email - chiedozie013@gmail.com<br>👤 Pronouns: He/Him<br>⚡️ Fun facts: I love football. 
 
